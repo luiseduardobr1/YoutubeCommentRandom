@@ -1,5 +1,5 @@
 # Youtube Random Comment
-Select a random youtube user that commented on a video
+Select a random youtube user (or more) that commented on a video.
 
 # Requirements
 * [Selenium](https://selenium-python.readthedocs.io/)
