@@ -9,4 +9,4 @@ Select a random youtube user that commented on a video
 # How to use it
 Just put video URL and decide the number of users that you want to select. 
 
-OBS: If the code can't extract all comments, then try to increase **SCROLL_PAUSE_TIME** variable. Otherwise, if the code is too slow, just reduce the same variable. 
+OBS: If the code can't extract all comments, then try to increase the value of **SCROLL_PAUSE_TIME** variable. Otherwise, if the code is too slow, just reduce the same variable. 
